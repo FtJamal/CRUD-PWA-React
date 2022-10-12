@@ -10,7 +10,7 @@ let data = {
     isLogin: null,
     darkTheme: true,
     myNum: 5,
-    baseUrl: (window.location.href.indexOf("https") === -1) ? "http://localhost:5000" : "null"
+    baseUrl: (window.location.href.indexOf("https") === -1) ? "http://localhost:5000" : " https://graceful-lapel-newt.cyclic.app"
 }
 
 export default function ContextProvider({ children }) {
