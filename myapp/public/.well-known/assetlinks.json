@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "app.netlify.ecommercecrud.twa",
+                     "sha256_cert_fingerprints": ["C6:3A:7A:47:18:C8:5C:1F:88:88:3D:7B:91:59:39:8E:16:F5:4A:03:06:1B:B1:19:C9:25:EA:41:97:52:DE:44"] }
+      }
+]
